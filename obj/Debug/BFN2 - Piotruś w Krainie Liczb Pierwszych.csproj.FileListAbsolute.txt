@@ -1,0 +1,12 @@
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\BFN2 - Piotruś w Krainie Liczb Pierwszych\bin\Debug\BFN2 - Piotruś w Krainie Liczb Pierwszych.exe.config
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\BFN2 - Piotruś w Krainie Liczb Pierwszych\bin\Debug\BFN2 - Piotruś w Krainie Liczb Pierwszych.exe
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\BFN2 - Piotruś w Krainie Liczb Pierwszych\bin\Debug\BFN2 - Piotruś w Krainie Liczb Pierwszych.pdb
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\BFN2 - Piotruś w Krainie Liczb Pierwszych\obj\Debug\BFN2 - Piotruś w Krainie Liczb Pierwszych.csprojAssemblyReference.cache
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\BFN2 - Piotruś w Krainie Liczb Pierwszych\obj\Debug\BFN2 - Piotruś w Krainie Liczb Pierwszych.exe
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\BFN2 - Piotruś w Krainie Liczb Pierwszych\obj\Debug\BFN2 - Piotruś w Krainie Liczb Pierwszych.pdb
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJECT\BFN2 - Piotruś w Krainie Liczb Pierwszych\bin\Debug\BFN2 - Piotruś w Krainie Liczb Pierwszych.exe.config
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJECT\BFN2 - Piotruś w Krainie Liczb Pierwszych\bin\Debug\BFN2 - Piotruś w Krainie Liczb Pierwszych.exe
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJECT\BFN2 - Piotruś w Krainie Liczb Pierwszych\bin\Debug\BFN2 - Piotruś w Krainie Liczb Pierwszych.pdb
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJECT\BFN2 - Piotruś w Krainie Liczb Pierwszych\obj\Debug\BFN2 - Piotruś w Krainie Liczb Pierwszych.csprojAssemblyReference.cache
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJECT\BFN2 - Piotruś w Krainie Liczb Pierwszych\obj\Debug\BFN2 - Piotruś w Krainie Liczb Pierwszych.exe
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJECT\BFN2 - Piotruś w Krainie Liczb Pierwszych\obj\Debug\BFN2 - Piotruś w Krainie Liczb Pierwszych.pdb
